@@ -20,9 +20,11 @@ LARGEUR_M   = 46
 TAILLE_CASE = 0.25
 NB_X = int(LONGUEUR_M  / TAILLE_CASE)
 NB_Y = int(LARGEUR_M   / TAILLE_CASE)
-JSON_RECTS  = "rectangles.json"
-JSON_CONN   = "connexions.json"
-XLSX_FILE   = "distances.xlsx"
+# Chemins relatifs au dossier du script (fonctionne quel que soit le répertoire de lancement)
+_DIR        = os.path.dirname(os.path.abspath(__file__))
+JSON_RECTS  = os.path.join(_DIR, "rectangles.json")
+JSON_CONN   = os.path.join(_DIR, "connexions.json")
+XLSX_FILE   = os.path.join(_DIR, "distances.xlsx")
 GAP_ENTRE_TRAITS = 4
 PRODUITS        = ["", "A", "B", "C", "D"]
 PRODUIT_COULEURS = {"A":"#4FC3F7","B":"#E53935","C":"#43A047","D":"#FFFFFF","":"#FF6B6B"}
