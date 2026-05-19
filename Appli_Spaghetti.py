@@ -1409,6 +1409,7 @@ for prod, xpos in zip(["A", "B", "C", "D"], filtre_positions):
     b = make_btn([xpos, 0.02, 0.06, 0.06], filtre_labels[prod], col, col,
                  lambda e, p=prod: basculer_produit(p))
     btn_filtres[prod] = b
+btn_filtres["D"].label.set_color("#000000")
 
 ax.set_title(
     f"Carte {LONGUEUR_M}m x {LARGEUR_M}m  |  Clic gauche=select/drag  |  "

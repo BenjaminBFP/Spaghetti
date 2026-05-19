@@ -205,6 +205,11 @@ def segment_crosses_rect(p1, p2, rx0, ry0, rx1, ry1):
         if rx0 < p1[0] < rx1 and not (sy1 <= ry0 or sy0 >= ry1): return True
     return False
 def _clamp_pts(pts):
+    """
+    Repousse tous les points intermédiaires (pas les ancrages début/fin)
+    à l'intérieur du canvas avec une marge de BORDER_MARGIN unités.
+    Les premier et dernier points (sur les bords des rectangles) sont laissés intacts.
+    """
     if len(pts) <= 2:
         return pts
     mn_x, mx_x = BORDER_MARGIN, NB_X - BORDER_MARGIN
@@ -312,7 +317,7 @@ def route_orthogonal(p1, side1, p2, side2, r1, r2, conn_id=None):
         if score < best_score:
             best_score = score; best = pts
 
-    result = _clamp_pts(best if best is not None else candidates[0])
+    result = best if best is not None else candidates[0]
     if conn_id is not None:
         routes_cache[cache_key] = result
     return result
@@ -1370,7 +1375,6 @@ def fmt_x(val, pos):
     v = val * CASE_TO_CM_X; return f"{v:.0f}" if v == int(v) else f"{v:.1f}"
 def fmt_y(val, pos):
     v = val * CASE_TO_CM_Y; return f"{v:.0f}" if v == int(v) else f"{v:.1f}"
-
 _L, _R, _B, _T = 0.07, 0.99, 0.14, 0.97
 _plot_w_frac = _R - _L; _plot_h_frac = _T - _B
 _fig_h = 8.0
@@ -1405,6 +1409,7 @@ for prod, xpos in zip(["A", "B", "C", "D"], filtre_positions):
     b = make_btn([xpos, 0.02, 0.06, 0.06], filtre_labels[prod], col, col,
                  lambda e, p=prod: basculer_produit(p))
     btn_filtres[prod] = b
+btn_filtres["D"].label.set_color("#000000")
 
 ax.set_title(
     f"Carte {LONGUEUR_M}m x {LARGEUR_M}m  |  Clic gauche=select/drag  |  "
