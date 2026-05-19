@@ -1,0 +1,665 @@
+[
+    {
+        "id": 0,
+        "nom": "D\u00e9coupe  5 ax",
+        "longueur": 37,
+        "largeur": 31,
+        "position": {
+            "x": 178,
+            "y": 150
+        },
+        "couleur": "#87ae51",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 1,
+        "nom": "Bureau Resp",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 24,
+            "y": 117
+        },
+        "couleur": "#6fc7d9",
+        "orientation_texte": "vertical",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 2,
+        "nom": "Stockage produit semi-fini",
+        "longueur": 13,
+        "largeur": 104,
+        "position": {
+            "x": 387,
+            "y": 80
+        },
+        "couleur": "#8eebfb",
+        "orientation_texte": "vertical",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 3,
+        "nom": "D\u00e9coupe 2 ax",
+        "longueur": 37,
+        "largeur": 31,
+        "position": {
+            "x": 111,
+            "y": 150
+        },
+        "couleur": "#e8fdd9",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 4,
+        "nom": "Stockage mati\u00e8re premi\u00e8re",
+        "longueur": 13,
+        "largeur": 104,
+        "position": {
+            "x": 0,
+            "y": 51
+        },
+        "couleur": "#8eebfb",
+        "orientation_texte": "vertical",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 5,
+        "nom": "Soudure 1",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 108,
+            "y": 83
+        },
+        "couleur": "#ff0000",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 6,
+        "nom": "Zone R\u00e9ception",
+        "longueur": 16,
+        "largeur": 52,
+        "position": {
+            "x": 24,
+            "y": 63
+        },
+        "couleur": "#6fc7d9",
+        "orientation_texte": "vertical",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 7,
+        "nom": "Zone emballage",
+        "longueur": 16,
+        "largeur": 44,
+        "position": {
+            "x": 284,
+            "y": 0
+        },
+        "couleur": "#6fc7d9",
+        "orientation_texte": "vertical",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 8,
+        "nom": "Emboutissage 5",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 193,
+            "y": 121
+        },
+        "couleur": "#fcf503",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 9,
+        "nom": "Emboutissage 4",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 193,
+            "y": 76
+        },
+        "couleur": "#fcf503",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 10,
+        "nom": "Emboutissage 3",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 193,
+            "y": 99
+        },
+        "couleur": "#fcf503",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 11,
+        "nom": "Emboutissage 1",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 88,
+            "y": 83
+        },
+        "couleur": "#fcf503",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 12,
+        "nom": "Emboutissage 2",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 88,
+            "y": 107
+        },
+        "couleur": "#fcf503",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 13,
+        "nom": "Stockage Outillage Emboutissage",
+        "longueur": 13,
+        "largeur": 118,
+        "position": {
+            "x": 64,
+            "y": 66
+        },
+        "couleur": "#FFFFFF",
+        "orientation_texte": "vertical",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": true,
+        "couleur_rayures": "#fefb8d",
+        "couleur_texte": "black"
+    },
+    {
+        "id": 14,
+        "nom": "Stockage Outillage traitement thermique",
+        "longueur": 13,
+        "largeur": 118,
+        "position": {
+            "x": 292,
+            "y": 66
+        },
+        "couleur": "#ffffff",
+        "orientation_texte": "vertical",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": true,
+        "couleur_rayures": "#f5d803",
+        "couleur_texte": "black"
+    },
+    {
+        "id": 15,
+        "nom": "Four ss-vide",
+        "longueur": 31,
+        "largeur": 31,
+        "position": {
+            "x": 260,
+            "y": 114
+        },
+        "couleur": "#dbb51a",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 16,
+        "nom": "Four classique",
+        "longueur": 31,
+        "largeur": 31,
+        "position": {
+            "x": 260,
+            "y": 145
+        },
+        "couleur": "#dbb51a",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 17,
+        "nom": "Centre d'Usinage",
+        "longueur": 31,
+        "largeur": 48,
+        "position": {
+            "x": 260,
+            "y": 66
+        },
+        "couleur": "#0f14ea",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 18,
+        "nom": "Stockage des outillages lasers 2 et 5 axes",
+        "longueur": 22,
+        "largeur": 29,
+        "position": {
+            "x": 152,
+            "y": 152
+        },
+        "couleur": "#FFFFFF",
+        "orientation_texte": "vertical",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": true,
+        "couleur_rayures": "#87ae51",
+        "couleur_texte": "black"
+    },
+    {
+        "id": 19,
+        "nom": "Soudure 2",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 216,
+            "y": 76
+        },
+        "couleur": "#ff0000",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 20,
+        "nom": "Soudure 3",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 216,
+            "y": 99
+        },
+        "couleur": "#ff0000",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 21,
+        "nom": "Soudure 4",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 108,
+            "y": 107
+        },
+        "couleur": "#ff0000",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 26,
+        "nom": "Chambre froide",
+        "longueur": 31,
+        "largeur": 29,
+        "position": {
+            "x": 219,
+            "y": 152
+        },
+        "couleur": "#eb75ee",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 27,
+        "nom": "Zone de ressuage/ FPI",
+        "longueur": 31,
+        "largeur": 29,
+        "position": {
+            "x": 148,
+            "y": 75
+        },
+        "couleur": "#000000",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 28,
+        "nom": "Outillage centre d'usinage",
+        "longueur": 31,
+        "largeur": 29,
+        "position": {
+            "x": 300,
+            "y": 0
+        },
+        "couleur": "#FFFFFF",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": true,
+        "couleur_rayures": "#0417ff",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 29,
+        "nom": "Contr\u00f4le 3D",
+        "longueur": 17,
+        "largeur": 22,
+        "position": {
+            "x": 172,
+            "y": 3
+        },
+        "couleur": "#000f55",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 30,
+        "nom": "Contr\u00f4le Qualit\u00e9",
+        "longueur": 93,
+        "largeur": 38,
+        "position": {
+            "x": 190,
+            "y": 0
+        },
+        "couleur": "#0b6fd2",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#0417ff",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 31,
+        "nom": "Chaud 5",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 128,
+            "y": 110
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 32,
+        "nom": "Chaud 1",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 239,
+            "y": 102
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 33,
+        "nom": "Chaud 6",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 239,
+            "y": 79
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 34,
+        "nom": "Chaud 2",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 127,
+            "y": 85
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 35,
+        "nom": "Chaud 7",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 239,
+            "y": 124
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 39,
+        "nom": "Soudure 9",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 216,
+            "y": 121
+        },
+        "couleur": "#ff0000",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 40,
+        "nom": "Bureau supply-chain",
+        "longueur": 31,
+        "largeur": 49,
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+        "couleur": "#808080",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 41,
+        "nom": "Bureau m\u00e9thodes et fonction technique",
+        "longueur": 31,
+        "largeur": 49,
+        "position": {
+            "x": 31,
+            "y": 0
+        },
+        "couleur": "#808080",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 42,
+        "nom": "Bureau administratif",
+        "longueur": 31,
+        "largeur": 49,
+        "position": {
+            "x": 62,
+            "y": 0
+        },
+        "couleur": "#808080",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 43,
+        "nom": "Bureau direction",
+        "longueur": 31,
+        "largeur": 49,
+        "position": {
+            "x": 93,
+            "y": 0
+        },
+        "couleur": "#808080",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 44,
+        "nom": "Vestiaire et sanitaire",
+        "longueur": 31,
+        "largeur": 88,
+        "position": {
+            "x": 305,
+            "y": 96
+        },
+        "couleur": "#808080",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "id": 45,
+        "nom": "Espace pause",
+        "longueur": 28,
+        "largeur": 24,
+        "position": {
+            "x": 305,
+            "y": 72
+        },
+        "couleur": "#808080",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": false,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    }
+]

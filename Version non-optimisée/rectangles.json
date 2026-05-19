@@ -1,0 +1,978 @@
+[
+    {
+        "nom": "D\u00e9coupe  5 ax",
+        "longueur": 37,
+        "largeur": 31,
+        "position": {
+            "x": 2,
+            "y": 4
+        },
+        "couleur": "#87ae51",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Bureau Resp",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 74,
+            "y": 167
+        },
+        "couleur": "#6fc7d9",
+        "orientation_texte": "vertical",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Stockage produit semi-fini",
+        "longueur": 13,
+        "largeur": 104,
+        "position": {
+            "x": 2,
+            "y": 79
+        },
+        "couleur": "#8eebfb",
+        "orientation_texte": "vertical",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "D\u00e9coupe 2 ax",
+        "longueur": 37,
+        "largeur": 31,
+        "position": {
+            "x": 2,
+            "y": 39
+        },
+        "couleur": "#e8fdd9",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Stockage mati\u00e8re premi\u00e8re",
+        "longueur": 13,
+        "largeur": 104,
+        "position": {
+            "x": 26,
+            "y": 79
+        },
+        "couleur": "#8eebfb",
+        "orientation_texte": "vertical",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Soudure 1",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 211,
+            "y": 167
+        },
+        "couleur": "#ff0000",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Zone R\u00e9ception",
+        "longueur": 16,
+        "largeur": 52,
+        "position": {
+            "x": 74,
+            "y": 113
+        },
+        "couleur": "#6fc7d9",
+        "orientation_texte": "vertical",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Zone emballage",
+        "longueur": 16,
+        "largeur": 44,
+        "position": {
+            "x": 74,
+            "y": 67
+        },
+        "couleur": "#6fc7d9",
+        "orientation_texte": "vertical",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Emboutissage 5",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 97,
+            "y": 167
+        },
+        "couleur": "#fcf503",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Emboutissage 4",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 97,
+            "y": 140
+        },
+        "couleur": "#fcf503",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Emboutissage 3",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 97,
+            "y": 115
+        },
+        "couleur": "#fcf503",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Emboutissage 1",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 97,
+            "y": 64
+        },
+        "couleur": "#fcf503",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Emboutissage 2",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 97,
+            "y": 90
+        },
+        "couleur": "#fcf503",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Stockage Outillage Emboutissage",
+        "longueur": 13,
+        "largeur": 118,
+        "position": {
+            "x": 131,
+            "y": 65
+        },
+        "couleur": "#FFFFFF",
+        "orientation_texte": "vertical",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": true,
+        "couleur_rayures": "#fefb8d",
+        "couleur_texte": "black"
+    },
+    {
+        "nom": "Stockage Outillage traitement thermique",
+        "longueur": 13,
+        "largeur": 118,
+        "position": {
+            "x": 144,
+            "y": 65
+        },
+        "couleur": "#ffffff",
+        "orientation_texte": "vertical",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": true,
+        "couleur_rayures": "#f5d803",
+        "couleur_texte": "black"
+    },
+    {
+        "nom": "Four ss-vide",
+        "longueur": 31,
+        "largeur": 31,
+        "position": {
+            "x": 173,
+            "y": 152
+        },
+        "couleur": "#dbb51a",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Four classique",
+        "longueur": 31,
+        "largeur": 31,
+        "position": {
+            "x": 173,
+            "y": 117
+        },
+        "couleur": "#dbb51a",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Centre d'Usinage",
+        "longueur": 31,
+        "largeur": 48,
+        "position": {
+            "x": 173,
+            "y": 65
+        },
+        "couleur": "#0f14ea",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Stockage des outillages lasers 2 et 5 axes",
+        "longueur": 22,
+        "largeur": 29,
+        "position": {
+            "x": 58,
+            "y": 2
+        },
+        "couleur": "#FFFFFF",
+        "orientation_texte": "vertical",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": true,
+        "couleur_rayures": "#87ae51",
+        "couleur_texte": "black"
+    },
+    {
+        "nom": "Soudure 2",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 227,
+            "y": 167
+        },
+        "couleur": "#ff0000",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Soudure 3",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 243,
+            "y": 167
+        },
+        "couleur": "#ff0000",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Soudure 4",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 259,
+            "y": 167
+        },
+        "couleur": "#ff0000",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Soudure 5",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 275,
+            "y": 167
+        },
+        "couleur": "#ff0000",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Soudure 6",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 291,
+            "y": 167
+        },
+        "couleur": "#ff0000",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Soudure 7",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 307,
+            "y": 167
+        },
+        "couleur": "#ff0000",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Soudure 8",
+        "longueur": 16,
+        "largeur": 16,
+        "position": {
+            "x": 323,
+            "y": 167
+        },
+        "couleur": "#ff0000",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chambre froide",
+        "longueur": 31,
+        "largeur": 29,
+        "position": {
+            "x": 104,
+            "y": 2
+        },
+        "couleur": "#eb75ee",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Zone de ressuage/ FPI",
+        "longueur": 31,
+        "largeur": 29,
+        "position": {
+            "x": 136,
+            "y": 2
+        },
+        "couleur": "#000000",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Outillage centre d'usinage",
+        "longueur": 31,
+        "largeur": 29,
+        "position": {
+            "x": 173,
+            "y": 2
+        },
+        "couleur": "#FFFFFF",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": true,
+        "couleur_rayures": "#0417ff",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Contr\u00f4le 3D",
+        "longueur": 17,
+        "largeur": 22,
+        "position": {
+            "x": 86,
+            "y": 3
+        },
+        "couleur": "#000f55",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Contr\u00f4le Qualit\u00e9",
+        "longueur": 93,
+        "largeur": 38,
+        "position": {
+            "x": 208,
+            "y": 3
+        },
+        "couleur": "#0b6fd2",
+        "orientation_texte": "horizontal",
+        "lock_x": false,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#0417ff",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 17",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 212,
+            "y": 143
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 13",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 212,
+            "y": 124
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 9",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 212,
+            "y": 105
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 5",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 212,
+            "y": 86
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 1",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 212,
+            "y": 67
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 14",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 233,
+            "y": 124
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 10",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 233,
+            "y": 105
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 6",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 233,
+            "y": 86
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 2",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 233,
+            "y": 67
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 18",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 233,
+            "y": 143
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 15",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 254,
+            "y": 124
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 11",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 254,
+            "y": 105
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 7",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 254,
+            "y": 86
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 3",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 254,
+            "y": 67
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 19",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 254,
+            "y": 143
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 16",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 275,
+            "y": 124
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 12",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 275,
+            "y": 105
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 8",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 275,
+            "y": 86
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 4",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 275,
+            "y": 67
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Chaud 20",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 275,
+            "y": 143
+        },
+        "couleur": "#30027b",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Ajust/ Montage 3",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 309,
+            "y": 85
+        },
+        "couleur": "#fefb8d",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Ajust/ Montage 1",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 309,
+            "y": 66
+        },
+        "couleur": "#fefb8d",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Ajust/ Montage 9",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 309,
+            "y": 142
+        },
+        "couleur": "#fefb8d",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Ajust/ Montage 7",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 309,
+            "y": 123
+        },
+        "couleur": "#fefb8d",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Ajust/ Montage 5",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 309,
+            "y": 104
+        },
+        "couleur": "#fefb8d",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Ajust/ Montage 4",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 329,
+            "y": 85
+        },
+        "couleur": "#fefb8d",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Ajust/ Montage 2",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 329,
+            "y": 66
+        },
+        "couleur": "#fefb8d",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Ajust/ Montage 10",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 329,
+            "y": 142
+        },
+        "couleur": "#fefb8d",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Ajust/ Montage 8",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 329,
+            "y": 123
+        },
+        "couleur": "#fefb8d",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    },
+    {
+        "nom": "Ajust/ Montage 6",
+        "longueur": 10,
+        "largeur": 10,
+        "position": {
+            "x": 329,
+            "y": 104
+        },
+        "couleur": "#fefb8d",
+        "orientation_texte": "horizontal",
+        "lock_x": true,
+        "lock_y": true,
+        "rayures": false,
+        "couleur_rayures": "#FFFFFF",
+        "couleur_texte": "white"
+    }
+]
