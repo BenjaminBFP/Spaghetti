@@ -564,7 +564,7 @@
         "id": 40,
         "nom": "Bureau supply-chain",
         "longueur": 31,
-        "largeur": 49,
+        "largeur": 48,
         "position": {
             "x": 0,
             "y": 0
@@ -581,7 +581,7 @@
         "id": 41,
         "nom": "Bureau m\u00e9thodes et fonction technique",
         "longueur": 31,
-        "largeur": 49,
+        "largeur": 48,
         "position": {
             "x": 31,
             "y": 0
@@ -589,7 +589,7 @@
         "couleur": "#808080",
         "orientation_texte": "horizontal",
         "lock_x": false,
-        "lock_y": true,
+        "lock_y": false,
         "rayures": false,
         "couleur_rayures": "#FFFFFF",
         "couleur_texte": "white"
@@ -598,7 +598,7 @@
         "id": 42,
         "nom": "Bureau administratif",
         "longueur": 31,
-        "largeur": 49,
+        "largeur": 48,
         "position": {
             "x": 62,
             "y": 0
@@ -606,7 +606,7 @@
         "couleur": "#808080",
         "orientation_texte": "horizontal",
         "lock_x": false,
-        "lock_y": true,
+        "lock_y": false,
         "rayures": false,
         "couleur_rayures": "#FFFFFF",
         "couleur_texte": "white"
@@ -615,7 +615,7 @@
         "id": 43,
         "nom": "Bureau direction",
         "longueur": 31,
-        "largeur": 49,
+        "largeur": 48,
         "position": {
             "x": 93,
             "y": 0
@@ -623,7 +623,7 @@
         "couleur": "#808080",
         "orientation_texte": "horizontal",
         "lock_x": false,
-        "lock_y": true,
+        "lock_y": false,
         "rayures": false,
         "couleur_rayures": "#FFFFFF",
         "couleur_texte": "white"
